@@ -1,4 +1,6 @@
-# LandingPagewithBootstrap
+# Landing Page with Bootstrap
 
-Website landing page portofolio website perusahaan berdasarkan tutorial Web Programming Unpas
-credit belong to : Sandhika Galih dan Angga Risky
+Merupakan website landing page untuk portofolio perusahaan berdasarkan tutorial Web Programming Unpas.
+Dibuat menggunakan Bootstrap 4.6
+
+credit to : Sandhika Galih dan Angga Risky
