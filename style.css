@@ -1,0 +1,30 @@
+/* Navbar */
+.navbar-brand {
+  font-size: 32px;
+  font-family: "Viga", sans-serif;
+}
+
+
+/* Utilities */
+.tombol {
+    border-radius: 20px;
+}
+
+/* Desktop Version */
+@media (min-width: 992px) {
+
+    .nav-link{
+        text-transform: uppercase;
+        margin-right: 30px;
+    }
+
+    .nav-link:hover::after{
+        content:"";
+        display: block;
+        border-bottom: 3px solid #0b63dc;
+        width: 50%;
+        margin: auto;
+        padding-bottom: 5px;
+        margin-bottom: -8px;
+    }
+}
